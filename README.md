@@ -85,7 +85,7 @@ Student_Performance_Analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/fh545599-byte/Student_Performance_Analytics.git
 ```
 
 ### 2. Open the project folder
