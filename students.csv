@@ -1,0 +1,16 @@
+Student_ID,Name,Department,Age,Gender,Attendance,Study_Hours,Assignments,Math,Python,English,Previous_GPA
+S001,Ali,CS,20,Male,88,5,8,78,85,76,2.9
+S002,Ahmed,SE,21,Male,92,6,9,85,90,82,3.2
+S003,Sara,CS,20,Female,95,7,10,92,96,89,3.6
+S004,Usman,AI,22,Male,70,2,6,65,68,64,2.4
+S005,Hassan,SE,21,Male,84,4,8,74,82,78,2.8
+S006,Ayesha,AI,23,Female,91,6,9,94,95,90,3.5
+S007,Bilal,CS,22,Male,76,3,7,69,75,71,2.5
+S008,Fatima,SE,20,Female,89,5,9,88,91,85,3.1
+S009,Usama,AI,21,Male,68,2,5,58,63,60,2.2
+S010,Maria,CS,22,Female,97,8,10,96,98,94,3.8
+S011,Hamza,SE,23,Male,81,4,7,72,79,75,2.7
+S012,Zainab,AI,20,Female,93,7,10,90,94,91,3.4
+S013,Omar,CS,21,Male,73,3,6,64,70,68,2.4
+S014,Hira,SE,22,Female,86,5,8,80,87,83,3.0
+S015,Saad,AI,23,Male,79,4,7,71,76,70,2.6
